@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://via.placeholder.com/800x200/1e1e2e/f38ba8?text=Awesome+Developer+Tools+2025" alt="Awesome Banner" />
+<img src="https://placehold.co/800x200/1e1e2e/f38ba8?text=Awesome+Developer+Tools+2025" alt="Awesome Banner" />
 
 <br/><br/>
 
@@ -92,3 +92,4 @@ Read our [contribution guidelines](CONTRIBUTING.md) to learn how to add your fav
   <p>Maintained with ❤️ by <b>Abdul Rasak V</b></p>
   <img src="https://komarev.com/ghpvc/?username=razinahmed&style=flat-square&color=blue&label=REPO+VIEWS" alt="Repo Views" />
 </div>
+
