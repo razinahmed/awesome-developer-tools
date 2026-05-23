@@ -110,6 +110,7 @@ The tools to add intelligence and "magic" to your applications.
 | **[Replicate](https://replicate.com/)** | Run open source ML models in the cloud via simple API calls | Pay-per-second | ⭐⭐⭐⭐⭐ |
 | **[LangChain](https://www.langchain.com/)** | Framework for building LLM-powered applications with chains, agents, and RAG | Free (OSS) | ⭐⭐⭐⭐ |
 | **[Pinecone](https://www.pinecone.io/)** | Managed vector database for semantic search and RAG applications | Free tier | ⭐⭐⭐⭐⭐ |
+| **[TinyTools](https://tinytools-smoky.vercel.app/)** | Free browser-based AI utilities: AI background remover (ONNX/WASM, runs locally), AI cost calculator, domain name generator, OG image + favicon generators, SEO meta tag generator. Open source. | Free (OSS) | ⭐⭐⭐⭐⭐ |
 
 ---
 
