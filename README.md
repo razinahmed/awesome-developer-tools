@@ -124,6 +124,7 @@ Authentication and user management solutions for modern applications.
 | **[Lucia](https://lucia-auth.com/)** | Lightweight, session-based auth library. Framework agnostic. | ✅ | ❌ | ✅ (OSS) |
 | **[Auth0](https://auth0.com/)** | Enterprise identity platform with universal login and fine-grained authorization. | ✅ | ✅ | ✅ |
 | **[Supabase Auth](https://supabase.com/auth)** | Built into Supabase. Email, social, phone, and magic link authentication. | ✅ | ✅ | ✅ |
+| **[Neon Auth](https://neon.com/docs/neon-auth/overview)** | Managed auth from Neon that syncs users directly into your Postgres database and branches with it. | ✅ | ✅ | ✅ |
 
 ---
 
