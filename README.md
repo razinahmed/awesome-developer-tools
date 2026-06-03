@@ -89,7 +89,7 @@ Backend-as-a-Service and database platforms that handle the heavy lifting.
 |---|---|---|:-:|:-:|
 | **[Supabase](https://supabase.com/)** | Open source Firebase alternative. Database, Auth, Storage, Edge Functions. | PostgreSQL | ✅ | ✅ |
 | **[PlanetScale](https://planetscale.com/)** | Advanced serverless MySQL platform with branching and zero-downtime schema changes. | MySQL | ❌ | ✅ |
-| **[Neon](https://neon.tech/)** | Serverless Postgres built for the cloud. Separates storage and compute for autoscaling. | PostgreSQL | ❌ | ✅ |
+| **[Neon Postgres](https://neon.com/)** | Serverless Postgres for apps and agents. Separates storage and compute for autoscaling. | PostgreSQL | ❌ | ✅ |
 | **[Upstash](https://upstash.com/)** | Serverless Redis and Kafka with per-request pricing. Great for rate limiting and caching. | Redis, Kafka | ❌ | ✅ |
 | **[Turso](https://turso.tech/)** | Edge-hosted SQLite database. Embedded replicas for ultra-low latency reads. | SQLite (libSQL) | ❌ | ✅ |
 | **[Convex](https://www.convex.dev/)** | Reactive backend-as-a-service with real-time queries, mutations, and scheduled functions. | Document DB | ✅ | ✅ |
