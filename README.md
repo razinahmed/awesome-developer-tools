@@ -48,6 +48,7 @@ The best component libraries and CSS tools for building beautiful applications.
 | **[Aceternity UI](https://ui.aceternity.com/)** | Trending animated components ready to copy-paste. Hover effects, 3D cards, spotlights, and more. | React, Tailwind | Free |
 | **[Radix UI](https://www.radix-ui.com/)** | Unstyled, accessible component primitives for building high-quality design systems. | React | Free |
 | **[Magic UI](https://magicui.design/)** | 50+ free animated components built with React, TypeScript, Tailwind CSS, and Framer Motion. | React, Tailwind | Free |
+| **[Payload Components](https://www.payload-components.xyz/)** | MIT registry and CLI for installing typed, wired Payload CMS blocks as reviewable source. | Payload, Next.js, TypeScript | Free |
 | **[Next UI](https://nextui.org/)** | Beautiful, fast, and modern React UI library with first-class support for Next.js. | React, Tailwind | Free |
 | **[Mantine](https://mantine.dev/)** | Full-featured React component library with 100+ hooks and components, dark mode, and form handling. | React | Free |
 
