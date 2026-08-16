@@ -138,6 +138,7 @@ Tools for ensuring your code works correctly and performs well.
 | **[Storybook](https://storybook.js.org/)** | Component Testing | Develop, test, and document UI components in isolation. | JS/TS |
 | **[Cypress](https://www.cypress.io/)** | E2E Testing | Developer-friendly E2E testing with real-time reloading and time-travel debugging. | JS/TS |
 | **[MSW](https://mswjs.io/)** | API Mocking | Mock Service Worker for intercepting and mocking API requests in tests. | JS/TS |
+| **[Agent QA](https://github.com/vostride/agent-qa)** | AI Test Automation | Natural-language web/mobile tests with persistent test memory and self-healing flows. | TypeScript |
 
 ---
 
