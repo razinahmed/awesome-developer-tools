@@ -154,6 +154,7 @@ Productivity enhancers for your daily workflow.
 | **[Zed](https://zed.dev/)** | Editor | macOS/Linux | High-performance, multiplayer code editor built in Rust by ex-Atom creators. |
 | **[HTTPie](https://httpie.io/)** | API Client | All | User-friendly command-line HTTP client and web-based API testing tool. |
 | **[DevToys](https://devtoys.app/)** | Utilities | Windows/macOS | Swiss Army knife for developers. JSON formatter, Base64, hash generators, and more. |
+| **[Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay)** | Utilities | Windows | Read-only Codex quota overlay and local Quota Center with pace, forecast, history, and activity views. |
 | **[Linear](https://linear.app/)** | Project Mgmt | Web | The issue tracker built for speed. Keyboard-first, with GitHub and Slack integration. |
 
 ---
