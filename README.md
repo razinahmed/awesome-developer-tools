@@ -198,6 +198,7 @@ Tools for building, testing, and documenting APIs.
 | **[tRPC](https://trpc.io/)** | API Framework | End-to-end typesafe APIs for TypeScript. No code generation needed. | ✅ |
 | **[Insomnia](https://insomnia.rest/)** | API Client | API design, debugging, and testing with GraphQL support. | ✅ |
 | **[Apidog](https://apidog.com/)** | API Platform | All-in-one API development tool: design, debug, test, mock, and document. | ✅ |
+| **[CSVJetty](https://csvjetty.com)** | Data Import | Embeddable CSV importer for web apps with column mapping, validation, and data delivery. | ✅ |
 
 ---
 
