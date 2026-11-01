@@ -153,6 +153,7 @@ Productivity enhancers for your daily workflow.
 | **[Fig](https://fig.io/)** | Terminal | macOS | IDE-style autocomplete for your terminal. Works with bash, zsh, and fish. |
 | **[Zed](https://zed.dev/)** | Editor | macOS/Linux | High-performance, multiplayer code editor built in Rust by ex-Atom creators. |
 | **[HTTPie](https://httpie.io/)** | API Client | All | User-friendly command-line HTTP client and web-based API testing tool. |
+| **[Kilobat CLI](https://github.com/seifip/kilobat-cli)** | Network Diagnostics | macOS 14+ | Free, GPL-3.0-only CLI for checking DNS, proxies, latency and failed API connections. |
 | **[DevToys](https://devtoys.app/)** | Utilities | Windows/macOS | Swiss Army knife for developers. JSON formatter, Base64, hash generators, and more. |
 | **[Linear](https://linear.app/)** | Project Mgmt | Web | The issue tracker built for speed. Keyboard-first, with GitHub and Slack integration. |
 
